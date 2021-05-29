@@ -14,8 +14,8 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:gravity="bottom"
-        android:text="Welcome to InfoDogs!"
-        android:textSize="30dp" />
+        android:text="@string/welcome_to_planetdogs"
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/instructionTextView"
@@ -23,5 +23,6 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:gravity="top"
-        android:text="Click anywhere to continue." />
+        android:textSize="20sp"
+        android:text="@string/click_anywhere_to_continue" />
 </LinearLayout>

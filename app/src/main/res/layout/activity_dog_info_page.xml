@@ -30,8 +30,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-black"
-                android:text="insertHeader"
-                android:textSize="40dp"
+                android:text="@string/insertheader"
+                android:textSize="40sp"
                 android:padding="10dp"/>
 
             <LinearLayout
@@ -46,16 +46,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="sans-serif-black"
-                    android:text="Location"
-                    android:textSize="20dp" />
+                    android:text="@string/location"
+                    android:textSize="20sp" />
 
                 <TextView
                     android:id="@+id/insertLocaInfo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:textSize="20dp"
-                    android:text="insertLocaInfo" />
+                    android:textSize="20sp"
+                    android:text="@string/insertlocainfo" />
 
             </LinearLayout>
 
@@ -71,16 +71,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="sans-serif-black"
-                    android:text="Diet"
-                    android:textSize="20dp" />
+                    android:text="@string/diet"
+                    android:textSize="20sp" />
 
                 <TextView
                     android:id="@+id/insertDietInfo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:textSize="20dp"
-                    android:text="insertDietInfo" />
+                    android:textSize="20sp"
+                    android:text="@string/insertdietinfo" />
 
             </LinearLayout>
 
@@ -96,16 +96,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="sans-serif-black"
-                    android:text="Lifespan"
-                    android:textSize="20dp" />
+                    android:text="@string/lifespan"
+                    android:textSize="20sp" />
 
                 <TextView
                     android:id="@+id/insertLifespan"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:textSize="20dp"
-                    android:text="insertLifespanInfo" />
+                    android:textSize="20sp"
+                    android:text="@string/insertlifespaninfo" />
 
             </LinearLayout>
 
@@ -121,16 +121,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="sans-serif-black"
-                    android:text="Weight"
-                    android:textSize="20dp" />
+                    android:text="@string/weight"
+                    android:textSize="20sp" />
 
                 <TextView
                     android:id="@+id/insertWeight"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:textSize="20dp"
-                    android:text="insertWeightInfo" />
+                    android:textSize="20sp"
+                    android:text="@string/insertweightinfo" />
 
             </LinearLayout>
 
@@ -146,16 +146,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="sans-serif-black"
-                    android:textSize="20dp"
-                    android:text="More Information:" />
+                    android:textSize="20sp"
+                    android:text="@string/more_information" />
 
                 <TextView
                     android:id="@+id/insertURL"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:textSize="20dp"
-                    android:text="insertURL" />
+                    android:textSize="20sp"
+                    android:text="@string/inserturl" />
             </LinearLayout>
 
 

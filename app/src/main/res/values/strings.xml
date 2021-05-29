@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Practical2Practice</string>
+    <string name="insertheader">insertHeader</string>
+    <string name="location">Location</string>
+    <string name="insertlocainfo">insertLocaInfo</string>
+    <string name="diet">Diet</string>
+    <string name="insertdietinfo">insertDietInfo</string>
+    <string name="lifespan">Lifespan</string>
+    <string name="insertlifespaninfo">insertLifespanInfo</string>
+    <string name="weight">Weight</string>
+    <string name="insertweightinfo">insertWeightInfo</string>
+    <string name="more_information">More Information:</string>
+    <string name="inserturl">insertURL</string>
+    <string name="click_anywhere_to_continue">Click anywhere to continue</string>
+    <string name="welcome_to_planetdogs">Welcome to PlanetDogs!</string>
 </resources>
