@@ -6,6 +6,16 @@
     android:background="@drawable/furbg"
     android:orientation="vertical">
 
+    <TextView
+        android:id="@+id/mainHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="CLICK ON THE DOG YOU WANT TO KNOW MORE ABOUT" />
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
